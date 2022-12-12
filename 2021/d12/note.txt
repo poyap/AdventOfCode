@@ -1,0 +1,9 @@
+The method used in this ans.py is depth first search.Hence we used stack.
+Also we could use breath first search, so we should use queue.
+
+If we want to traverse using depth_first_search algorithm:
+we can use: 1)stack
+            2)Recursion
+Also if we want to traverse using breadth_first_search algorithm we should approach using:
+1) Queue
+2) Recursion
